@@ -180,7 +180,7 @@ header {
        github.com/Syaira05
       </a>
     </p>
-    <p>whatsapp: 
+    <p>WhatsApp: 
       <a href="083871707211" target="_blank" class="text-blue-500 hover:underline">
         083871707211
       </a>
